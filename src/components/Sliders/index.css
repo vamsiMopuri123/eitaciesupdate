@@ -1,0 +1,52 @@
+.carousal-container{
+    display: flex;
+    
+   color: blue;
+   background-color: black;
+   height: 50px;
+   width: 50px;
+   border-radius: 50px;
+}
+.container{
+  margin: 80px;
+  border-radius: 20px; 
+  border-style: solid;
+  padding: 30px;
+}
+.slick-prev:hover,
+.slick-next:hover {
+  color: #ff0000; /* Customize the color of the arrows on hover */
+}
+/* .profile{
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  height: 50px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+} */
+
+.card-item{
+  display: flex;
+  flex-direction: column;
+  background-color:white;
+  height: 500px;
+  width: 300px;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-left: 20px;
+  align-items: center;
+  justify-content: center;
+  border-style: none;
+}
+.cloud-image{
+  height: 200px;
+  width: 300px;
+}
+
+
+
+
+  

@@ -1,0 +1,337 @@
+
+.header-container{
+    
+    background-image: url("https://www.eitacies.com/assets/img/banners-new/consult.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+
+.header-sub-container{
+    display: flex;
+    flex-direction: row;
+}
+.header-logo{
+    height: 60px;
+    width: auto;
+    /* margin-left: 50px; */
+    margin-top: 10px;
+}
+.nav{
+    margin-left: auto;
+}
+.header-text{
+    display: flex;
+    flex-direction: row;
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 15px;
+    font-weight: 800;
+    list-style-type: none;
+}
+.header-text1{
+    padding-left: 220px;
+    padding-top: 25px;
+}
+.header-text2{
+    padding-left: 30px;
+    padding-top: 25px;
+}
+.header-select{
+    background-color: transparent;
+    border-width: 0px;
+    color:black;
+}
+#header{
+    font-family: "Bree Serif";
+    font-size: 15px;
+    font-weight: 800;
+    list-style-type: none;
+    color: white;
+}
+.header-txt{
+    display: flex;
+    color: white;
+    font-size: 60px;
+    font-family: "Roboto";
+    font-style: italic;
+    font-weight: bold;
+    margin-left: 50px;
+    margin-top: 150px;
+
+}
+.icon-container{
+    display: flex;
+    flex-direction: row;
+    margin-left: 20px;
+   
+}
+.icon-home{
+    height: 20px;
+    width: 20px;
+    margin-top: 20px;
+}
+.icon-arrow{
+    color:rgb(161, 165, 168);
+    margin-top: 25px;
+    margin-left: 8px;
+    height: 10px;
+    width: 10px;
+}
+.icon-text{
+    color: black;
+    font-size: 18px;
+    font-family: 'Roboto';
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.card{
+    
+    border-color:white;
+    text-align: center;
+    align-items: center;
+    padding: 20px;
+}
+.img1{
+    height: auto;
+    width: auto;
+}
+.card-heading{
+    font-family: 'Roboto';
+    font-weight: 700;
+}
+.card-container{
+    color: black;
+    font-size: 16px;
+    font-weight: 500;
+    text-align: center;
+}
+.image-container{
+    display: flex;
+    flex-direction: row;
+}
+.img1{
+    height: 200px;
+    width: 250px;
+    margin-top: 100px;
+    border-radius: 15px;
+}
+.img2{
+    height: 200px;
+    width: 250px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 100px;
+    border-radius: 15px;
+}
+.img3{
+    height: 200px;
+    width: 250px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 100px;
+    border-radius: 15px;
+}
+.content-container{
+    display: flex;
+    flex-direction: row;
+    height: 400px;
+    background-image: url("https://img.freepik.com/premium-photo/abstract-background-images-wallpaper-ai-generated_643360-50337.jpg");
+    background-size: cover;
+}
+.content-text-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 300px;
+    width: 400px;
+}
+.content-text-container1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 300px;
+    width: 400px;
+    margin-left: 50px;
+}
+.content-text-container2{
+    margin-left: 40px;
+}
+.content-heading1{
+    color: white; 
+}
+.content-text{
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+    text-align: center;
+}
+.bridge-container{
+    background-color: rgb(211, 210, 208);
+    height: 200px;
+    align-items: center;
+    text-align: center;
+    padding-top: 40px;
+    
+}
+.bridge-heading{
+    color: rgb(32, 32, 243);  
+}
+.bridge-button{
+    height: 50px;
+    width: 300px;
+    background-color: rgb(45, 45, 212);
+    border-radius: 30px;
+    border-width: 0px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+.image-slideshow-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 400px;
+    background-color: white;
+    margin-top: 30px;
+}
+.image-heading{
+    color: black;
+    text-align: center;
+}
+.service-heading{
+    color: black;
+    text-align: center;
+    margin-top: 150px;
+
+}
+.group-images{
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px;
+    height: 350px;
+    width: 350px;
+   
+}
+.g-consult{
+    display: flex;
+    flex-direction: column;
+    margin-left: 35px;
+    margin-right: 60px;
+    opacity: 0.9;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(233, 230, 230);
+    text-align: center;
+}
+.g-image1{
+    height: 200px;
+    width: 350px;
+}
+.g-content{
+    margin-top: 20px;
+    font-family: 'Caveat';
+    margin-left: 15px;
+    margin-top: 10px;
+}
+.g-para{
+    color: rgb(134, 126, 126);
+}
+.partners{
+    margin-top: 40px;
+    text-align: center;
+    font-family: 'Bree serif';
+    font-weight: 700;
+}
+.container{
+    
+    margin-left: 80px;
+    margin-right: 80px;
+    padding: 30px;
+    border-color: rgb(199, 187, 187);
+    border-style: solid;
+    border-width: 1px;
+
+    
+  }
+   .slick-prev::before,
+   .slick-next:hover {
+    color: #ff0000; /* Customize the color of the navigation arrows on hover */
+  }
+  .slick-prev::before,
+  .slick-next::before {
+   color: #ff0000; /* Customize the color of the navigation arrows on hover */
+ }
+ .container .img-container1 img{
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .amazing-heading{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    font-family: 'Bree serif';
+  }
+  .profile{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  .stories{
+    padding-top: 30px;
+    text-align: center;
+    font-family: 'Caveat';
+    font-weight: 700;
+    color: white;
+  }
+  .cards-container{
+    background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGfQ3J14CKZzwHaIrioZWEzOLK0b9Zqutgrg&usqp=CAU') ;
+    background-size: cover;
+    height: 400px;
+    text-align: center;
+
+  }
+  /* .card-item{
+    background-color: white;
+    height: 500px;
+    width: 250px;
+  } */
+  .card-item{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    height: 500px;
+    width: 300px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 20px;
+    align-items: center;
+    justify-content: center;
+  }
+  .cloud-image{
+    height: 200px;
+    width: 300px;
+  }
+  .started{
+    text-align: center;
+    font-weight: 700;
+  }
+  .button1{
+    text-align: center;
+    height: 40px;
+    width: 125px;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Roboto';
+    border-radius: 20px;
+  }
+ 
